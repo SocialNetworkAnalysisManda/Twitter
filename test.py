@@ -1,1 +1,1 @@
-"""Mandarino hpta"""
+"""Mandarino hpta aprenda de Computer Science"""
