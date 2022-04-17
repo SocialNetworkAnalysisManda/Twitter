@@ -30,7 +30,7 @@ Output: dataframe with each tweet as a row, and columns correspond to
         the attributes of the tweet
 """
 def organize_tweets_in_dataframe(tweet_list):
-    dictionary = {}  # Dictinoary used to construct Data Frame
+    dictionary = {}  # Dictionary used to construct Data Frame
 
     sample_tweet = tweet_list[0]
     for key in sample_tweet.keys():
